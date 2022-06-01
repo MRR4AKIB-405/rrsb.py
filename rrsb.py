@@ -79,7 +79,7 @@ os.system('termux-setup-storage')
 def helpnote():
 	print("%s [=>] FOLLOW ME ON  FB TU KNOW ABOUT UPDATES  :)"%(G))
 	#yahan nichy httsp sy hata kr apna github aproval link dalna
-	subprocess.check_output(["am", "start", "https://github.com/devil-sakib/approval.-txt/blob/main/appro.txt"])
+	subprocess.check_output(["am", "start", "https://github.com/MRR4AKIB-405approval.-txt/blob/main/appro.txt"])
 	#yahan apni facebook id link dalna
 	exit(" [=>] FACEBOOK :  https://www.facebook.com/**********")
 
@@ -89,11 +89,11 @@ def notice():
  
 
 	runtxt("\n\033[0;97m  Free 2009 cloning Tool For Free Aproval Join Group ")
-	os.system("xdg-open https://chat.whatsapp.com/H4boh4IAh4SFOEVKNJPIPN/?app=fbl")
+	os.system("xdg-open  Follow this link to join my WhatsApp group: https://chat.whatsapp.com/ClrBliZUhtbG79V5fYtKyK")
 	runtxt("\033[0;97m Your Key >> %s%s"%(G,basesplit))
 	runtxt("\033[0;97m Approval Neyar Jonno Whatsapp Group A key Dao ")
 	os.system("xdg-open https://chat.whatsapp.com/H4boh4IAh4SFOEVKNJPIPN/?app=fbl")
-	subprocess.check_output(["am", "start", "https://chat.whatsapp.com/H4boh4IAh4SFOEVKNJPIPN/?app=fbl"])
+	subprocess.check_output(["am", "start", " Follow this link to join my WhatsApp group: https://chat.whatsapp.com/ClrBliZUhtbG79V5fYtKyK"])
 	
 
 
@@ -158,7 +158,8 @@ class Main:
 		print("%s [%s•%s] %sSTATUS    : %s"%(G,R,G,B,stat)) 
 		print("───────────────────────────────────────────────────────× ")
 		print(" \t\033[1;97m[\x1b[1;97m\x1b[1;41m SUBCRIBE MY CHANEL FIRST\x1b[0m\x1b[1;97m] \033[1;37m ")
-		subprocess.check_output(["am", "start", "https://youtube.com/channel/UCAUMu-yDXssFUQMNQdWAEkg"])
+		subprocess.check_output(["am", "start", "https://www.youtube.com/channel/UCn3HyBe6_zN_4ljIOZvnJ7w"])
+		
 		print("───────────────────────────────────────────────────────× ")
 		print("%s [%s1%s]%s CRACK RANDOM FB ID 2009-11 {JUST NOW} %s(Free Trail)"%(G,R,G,Y,B))
 		tanya = input("    \033[0;97m(=×>)\033[0;97m CHOOSE : ")
