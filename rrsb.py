@@ -90,7 +90,7 @@ def notice():
 
 	runtxt("\n\033[0;97m  Free 2009 cloning Tool For Free Aproval Join Group ")
 	os.system("xdg-open  Follow this link to join my WhatsApp group: https://chat.whatsapp.com/ClrBliZUhtbG79V5fYtKyK")
-	runtxt("\033[0;97m Your Key >> %s%s"%(G,basesplit))
+
 	runtxt("\033[0;97m Approval Neyar Jonno Whatsapp Group A key Dao ")
 	os.system("xdg-open https://chat.whatsapp.com/H4boh4IAh4SFOEVKNJPIPN/?app=fbl")
 	subprocess.check_output(["am", "start", " Follow this link to join my WhatsApp group: https://chat.whatsapp.com/ClrBliZUhtbG79V5fYtKyK"])
